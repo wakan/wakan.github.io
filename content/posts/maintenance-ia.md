@@ -36,7 +36,7 @@ Mais l'IA a un côté franchement positif qu'on sous-estime souvent, et il conce
 
 Pendant longtemps, le dialogue entre un décideur et un développeur ressemblait à ceci : le décideur explique ce qu'il veut en termes métier, le développeur traduit en termes techniques, et au bout de trois semaines de développement, le décideur découvre que ce qu'il a obtenu n'est pas exactement ce qu'il avait en tête. Ce cycle — spécifier, développer, décevoir, recadrer — était une des grandes sources de gaspillage dans les projets informatiques.
 
-![Tree swing cartoon — ce que le client voulait vs ce que chaque équipe a compris](/images/tree-swing.svg)
+![Tree swing cartoon — ce que le client voulait vs ce que chaque équipe a compris](/img/tree-swing.svg)
 *Le [tree swing cartoon](https://en.wikipedia.org/wiki/Tree_swing_cartoon) — la métaphore classique de l'écart entre ce que le client veut et ce qui est livré. Redrobsche, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 L'IA change profondément cette dynamique. Aujourd'hui, un décideur peut arriver en réunion avec une maquette fonctionnelle qu'il a générée lui-même. Pas une présentation PowerPoint, pas un wireframe approximatif — **une interface qui fait ce qu'il imagine, qui répond à ses clics, qui affiche ses données**. Il a passé une après-midi dessus, il a ajusté, il a itéré, et il arrive avec quelque chose de concret.
