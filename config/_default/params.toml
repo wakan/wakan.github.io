@@ -1,7 +1,7 @@
 subtitle = "Microsoft fan blog's."
 copyright-year = '2016'
 display_toc = true
-
+showMenuItems = 2
 
 
 
@@ -25,3 +25,6 @@ readingTime = true
         [[languages.fr.menu.main]]
           name = "GitHub"
           url = "https://github.com/wakan"
+        [[languages.fr.menu.main]]
+          name = "Glads.fr"
+          url = "https://www.glads.fr"
